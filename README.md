@@ -2,7 +2,7 @@
 
 Submitted game to a 1 week game jam hosted in itch.io, made with Unity and C#.
 
-#Description
+# Description
 
 This is my first project as a solo game dev, a short story about finding motivation through cleaning up your space and recalling memories.
 
